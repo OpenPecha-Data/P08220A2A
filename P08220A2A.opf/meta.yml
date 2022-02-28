@@ -1,0 +1,19 @@
+id: P08220A2A
+initial_creation_type: input
+source_metadata:
+  title: Adzom Gyalse Series
+  language: es
+  description: 'Texts by and about Adzom Gyalse Gyurme Dorje (a ''dzoms rgyal sras
+    ’gyur med rdo rje, 1895–1969):'
+  volume:
+    c4dd4cf53c84425fb18ae6f5dee1b817:
+      title: 'Advice for Beginners: How to Overcome Obstacles to Meditation'
+      parent: Advice
+    84519a50fca64f2aa561b798810a8f41:
+      title: A Concise Explanation of Gaṇacakra
+      parent: Commentaries
+    eb4a2254a4774da6acd622df39a966b8:
+      title: Notes on the Heart-Essence Practices of the Channels and Wind-Energies
+      parent: Tsa Lung
+created_at: '2022-02-28T22:35:30.539494'
+last_modified_at: '2022-02-28T22:35:30.539497'
